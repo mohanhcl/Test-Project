@@ -1,1 +1,1 @@
-this is info file
+This is INFO1 File
